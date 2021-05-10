@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'CODESS 2021 Workshop' });
+  res.render('index', { title: 'CODESS' });
 });
 
 module.exports = router;
