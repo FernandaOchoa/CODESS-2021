@@ -1,4 +1,6 @@
-# CODESS 2021 Workshop
+# CODESS 2021 Workshop :israel:
+
+![codess](https://user-images.githubusercontent.com/9124597/118569186-059e1180-b73f-11eb-8b14-06124cb998f9.png)
 
 🚩 Welcome to Github From Code To Deployment 🚩
 
